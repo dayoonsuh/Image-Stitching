@@ -15,26 +15,10 @@ torchvision==0.19.0
 
 ## How to run
 
-### Part 1
 
 ### Run
 ```python
-cd part1
 python main.py
 ```
 ### Change type of descriptor 
 change argument in main.py (Pixel, Hynet)
-
-
-### Part 2
-
-### Run
-```python
-cd part2
-python main.py
-```
-### Change Subject and Integration method
-change arguments in main.py line 11, 13
-
-### Change Patch size, Number of iterations, Threshold
-change image_sticher.py line 30-32
