@@ -1,4 +1,4 @@
-# CS59300CVD Assignment 3
+# Image Stitching
 
 ## Requirements
 ```python
