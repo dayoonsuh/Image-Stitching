@@ -18,7 +18,6 @@ torchvision==0.19.0
 
 ### Run
 ```python
-python main.py
+python main.py -d [descriptor_type]
 ```
-### Change type of descriptor 
-change argument in main.py (Pixel, Hynet)
+- descriptor_type: {pixel, hynet}
