@@ -1,6 +1,7 @@
 # Image Stitching
 ![image](https://github.com/user-attachments/assets/07ca4db8-ea71-47bd-a043-4bb68dc93d19)
-![image](https://github.com/user-attachments/assets/6dfb6461-bbe8-421c-af87-fb64eef0f3ff)
+![image](https://github.com/user-attachments/assets/476a384a-98f4-447a-b8f1-25b5b63b1819)
+
 
 
 ## Requirements
