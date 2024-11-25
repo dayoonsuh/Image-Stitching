@@ -1,4 +1,7 @@
 # Image Stitching
+![image](https://github.com/user-attachments/assets/07ca4db8-ea71-47bd-a043-4bb68dc93d19)
+![image](https://github.com/user-attachments/assets/6dfb6461-bbe8-421c-af87-fb64eef0f3ff)
+
 
 ## Requirements
 ```python
